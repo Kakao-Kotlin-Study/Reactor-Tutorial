@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef6b101c-cfd7-47f5-a191-f475256faadd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/7.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/7.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/7.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/7.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/7.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/7.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/7.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/7.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/7.6.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/7.6.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/build/classes/java/main/com/example/demo/controller/BranchOfficeController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/build/classes/java/main/com/example/demo/controller/BranchOfficeController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/build/classes/java/main/com/example/demo/controller/BranchOfficeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/build/classes/java/main/com/example/demo/controller/BranchOfficeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/branch-office/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/7.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/7.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/7.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/7.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/7.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/7.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/7.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/7.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/7.6.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/7.6.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/build/classes/java/main/com/example/demo/ClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/build/classes/java/main/com/example/demo/ClientApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/build/tmp/compileJava/compileTransaction/stash-dir/BlockingBookService.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/build/tmp/compileJava/compileTransaction/stash-dir/ClientApplication.class.uniqueId1" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/build/tmp/compileJava/compileTransaction/stash-dir/ClientApplication.class.uniqueId1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/src/main/java/com/example/demo/ClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/client/src/main/java/com/example/demo/ClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/7.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/7.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/7.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/7.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/7.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/7.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/7.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/7.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-block/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/7.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/7.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/7.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/7.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/7.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/7.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/7.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/7.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/7.6.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/7.6.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/build/classes/java/main/com/example/demo/controller/HeadOfficeNonBlockController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/build/classes/java/main/com/example/demo/controller/HeadOfficeNonBlockController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../blocking-nonblocking-test/head-office-non-block/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2R3nxVasGoCVcoMpBLCxdwrJBU9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ruby.rails.projectView.checked": "true",
+    "settings.editor.selected.configurable": "MTConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef6b101c-cfd7-47f5-a191-f475256faadd" name="Changes" comment="" />
+      <created>1686487879197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686487879197</updated>
+      <workItem from="1686487880485" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
